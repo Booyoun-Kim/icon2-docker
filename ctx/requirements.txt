@@ -36,4 +36,4 @@ xxhash==2.0.2
 argparse
 boto3==1.18.36
 ffcount==0.1.9
-cryptography==35.0.0
+cryptography==42.0.0
